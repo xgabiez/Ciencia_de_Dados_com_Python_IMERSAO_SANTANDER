@@ -1,0 +1,56 @@
+[
+  {
+    "id": 101,
+    "name": "Gabrielly",
+    "account": {
+      "id": 201,
+      "number": "12345-1",
+      "agency": "0001",
+      "balance": 5000.0,
+      "limit": 1500.0
+    },
+    "card": {
+      "id": 301,
+      "number": "**** **** **** 9876",
+      "limit": 5000.0
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 102,
+    "name": "Marcos",
+    "account": {
+      "id": 202,
+      "number": "54321-2",
+      "agency": "0001",
+      "balance": 1200.0,
+      "limit": 500.0
+    },
+    "card": {
+      "id": 302,
+      "number": "**** **** **** 1234",
+      "limit": 1500.0
+    },
+    "features": [],
+    "news": []
+  },
+  {
+    "id": 103,
+    "name": "Ana Paula",
+    "account": {
+      "id": 203,
+      "number": "67890-3",
+      "agency": "0001",
+      "balance": 700.0,
+      "limit": 300.0
+    },
+    "card": {
+      "id": 303,
+      "number": "**** **** **** 5678",
+      "limit": 800.0
+    },
+    "features": [],
+    "news": []
+  }
+]
